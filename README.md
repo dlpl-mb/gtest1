@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://dlpl-mb.github.io/gtest1/](https://dlpl-mb.github.io/gtest1/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden Gaby
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
